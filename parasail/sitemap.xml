@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://parasail.io/</loc>
+</url>
+<url>
+<loc>https://parasail.io/about-us</loc>
+</url>
+<url>
+<loc>https://parasail.io/pricing</loc>
+</url>
+<url>
+<loc>https://parasail.io/blogs</loc>
+</url>
+<url>
+<loc>https://parasail.io/blogs/serverless-vs-dedicated-inference</loc>
+</url>
+<url>
+<loc>https://parasail.io/blogs/parasail-and-wafer-ai-faster-models-lower-costs</loc>
+</url>
+<url>
+<loc>https://parasail.io/blogs/making-an-eagle-fly-how-we-got-2-6x-faster-llm-inference-without-cheating</loc>
+</url>
+<url>
+<loc>https://parasail.io/blogs/making-cold-start-latencies-go-brrrr-a-multi-pronged-approach</loc>
+</url>
+<url>
+<loc>https://parasail.io/legal/privacy-policy</loc>
+</url>
+<url>
+<loc>https://parasail.io/legal/terms-of-service</loc>
+</url>
+</urlset>
